@@ -2,7 +2,7 @@ Name: Alexander Konnaris
 
 Stack: JavaScript/MERN
 
-GitHub Repo link: < Put your GitHub repo link here >
+GitHub Repo link: https://github.com/yoalfrado28/SoloProject
 
 Project name: Shipping Inventory App
 
