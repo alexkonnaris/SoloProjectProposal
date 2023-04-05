@@ -1,0 +1,14 @@
+Name: Alexander Konnaris
+
+Stack: JavaScript/MERN
+
+GitHub Repo link: < Put your GitHub repo link here >
+
+Project name: Shipping Inventory App
+
+Project description: An inventory app that can store different products and keep record of the quantity of each product. It also stores information about the product like the brand name, price and size.
+
+MVP (Minimum Viable Product) features: < The features you must have that should be built within the timeframe >
+
+Bonus feature(s): 
+	Application uses a CSS framework such as Bootstrap
